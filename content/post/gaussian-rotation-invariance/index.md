@@ -30,10 +30,10 @@ Hence the law is unchanged under rotations. The choice of these coordinates is s
 The measure is one-dimensionnal, it effectively exists only in r 
 
 ### Projections of X
-Take any unit vector $u$. By rotation invariance, properties of u will be the same of properties of a basis vector $e_1$, since they are only separated by a rotation. Hence the distribution of <u, X> has to be the same as $<e_1, X> = X_1$. Hence we have found that $<u, X> \tilde N(0,1)$.
+Take any unit vector $u$. By rotation invariance, properties of u will be the same of properties of a basis vector $e_1$, since they are only separated by a rotation. Hence the distribution of <u, X> has to be the same as $<e_1, X> = X_1$. Hence we have found that $<u, X> \sim N(0,1)$.
 
 ### General $u$
-What if $u$ is not normalised? Then there is a scalar $\alpha$ such that $\alpha u$ is normalised. Then $<u, X> = \frac{1}{\alpha} <\alpha u, X> \tilde N(0,\frac{1}{\alpha^2})$. Notice that $\alpha = \frac{1}{||u||_2}$, and so $<u,X> \tilde N(0, ||u||_2^2)$
+What if $u$ is not normalised? Then there is a scalar $\alpha$ such that $\alpha u$ is normalised. Then $<u, X> = \frac{1}{\alpha} <\alpha u, X> \sim N(0,\frac{1}{\alpha^2})$. Notice that $\alpha = \frac{1}{||u||_2}$, and so $<u,X> \sim N(0, ||u||_2^2)$
 
 ### Uniqueness of the Gaussian Rotation Invariance
 Uniqueness arrises in the Gaussian from the i.i.d. property of the elements of $X$.
@@ -50,4 +50,4 @@ We can think of the fact that rotations exist as the fact that there are more de
 
 Taking the sum of gaussian random variables we obtain a gaussian random variable. We show how this is related to rotation invariance. If we let $v$ be the all-one vector,
 
-$$\sum_{i=1}^n X_i = <v,X> \tilde N(0, ||v||_2^2) = N(0, n)$$
+$$\sum_{i=1}^n X_i = <v,X> \sim N(0, ||v||_2^2) = N(0, n)$$
