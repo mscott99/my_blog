@@ -37,8 +37,8 @@ What if $u$ is not normalised? Then there is a scalar $\alpha$ such that $\alpha
 
 ### Uniqueness of the Gaussian Rotation Invariance
 Uniqueness arrises in the Gaussian from the i.i.d. property of the elements of $X$.
-Assuming only the i.i.d. property, elements $X_i$ have a distribution $\mu$ which they all obey independently. Then the n-times product measure $\mu^n$ is the law of $X$. We take the cdf $f_i(x)$ of the laws $\mu_i$. Then the cdf of $X$ at some coordinate point $x$ as $\{x_i\}$ is $f(x) = \bigpi_{i=1}^n f_i(x_i)$. This quantity can only depend on the radius of the point, meaning that any dependency on $x_i$ must go to compute the $l_2$ norm of $x$. The essential feature is that the $l_2$ norm is computed additively, but we have a product.
-$$\bigpi_{i=1}^n \tilde f(x_i^2) = \tilde f(\sum_{i=1}^n x_i^2)$$
+Assuming only the i.i.d. property, elements $X_i$ have a distribution $\mu$ which they all obey independently. Then the n-times product measure $\mu^n$ is the law of $X$. We take the cdf $f_i(x)$ of the laws $\mu_i$. Then the cdf of $X$ at some coordinate point $x$ as $\{x_i\}$ is $f(x) = \prod_{i=1}^n f_i(x_i)$. This quantity can only depend on the radius of the point, meaning that any dependency on $x_i$ must go to compute the $l_2$ norm of $x$. The essential feature is that the $l_2$ norm is computed additively, but we have a product.
+$$\prod_{i=1}^n \tilde f(x_i^2) = \tilde f(\sum_{i=1}^n x_i^2)$$
 The only way for this to happen is for $\tilde f$ to be exponential. From this follows that we must have a gaussian.
 
 ### Generalisations: what is a rotation
@@ -50,4 +50,4 @@ We can think of the fact that rotations exist as the fact that there are more de
 
 Taking the sum of gaussian random variables we obtain a gaussian random variable. We show how this is related to rotation invariance. If we let $v$ be the all-one vector,
 
-$$\sum_{i=1}^n X_i = <v,X>
+$$\sum_{i=1}^n X_i = <v,X> \tilde N(0, ||v||_2^2) = N(0, n)$$
