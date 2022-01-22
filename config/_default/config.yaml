@@ -7,6 +7,11 @@ title: Hugo Academic Blog Theme # Website name
 baseurl: 'https://example.com/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
+# admin
+
+publish_mode: editorial_workflow
+
+
 ############################
 ## LANGUAGE
 ############################
