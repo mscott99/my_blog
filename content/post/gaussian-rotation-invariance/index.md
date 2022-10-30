@@ -2,7 +2,7 @@
 title: Gaussian Rotation Invariance
 subtitle: Exploring the different ways of approaching rotation invariance
 date: 2022-01-12T01:23:55.209Z
-draft: false
+draft: true
 featured: false
 image:
   filename: featured
