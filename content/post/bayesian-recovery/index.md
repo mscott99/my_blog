@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-We first set out to describe the problem and what we seek as a result. Given a signal $z^ *\in \mathbb{R}^n$ distributed according to some (prior) distribution $P_{z}$ we measure $z^*$ with a measurement matrix $A$ which gives us the (then known) measurement vector $y:= Az^*$. Once $y$ is known, we examine the posterior variable $\hat{z} \sim p_{z|y}(\cdot)$. 
+We first set out to describe the problem and what we seek as a result. Given a signal $z^\*\in \mathbb{R}^n$ distributed according to some (prior) distribution $P_{z}$ we measure $z^*$ with a measurement matrix $A$ which gives us the (then known) measurement vector $y:= Az^*$. Once $y$ is known, we examine the posterior variable $\hat{z} \sim p_{z|y}(\cdot)$. 
 
 Specifically, we define $\hat{z}$ from two properties:
 
