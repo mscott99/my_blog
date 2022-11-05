@@ -6,5 +6,5 @@ weight: 10
 author: admin
 design:
   background:
-    image: profile_spontaneous.jpg
+    image: ""
 ---
