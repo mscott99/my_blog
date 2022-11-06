@@ -12,3 +12,7 @@ main:
     weight: 20
   - name: Blog
     url: https://mscott99.github.io/matthewscott-blog/
+  - name: YouTube
+    url: https://www.youtube.com/channel/UCBfvWKK9-uiCYXo_aT7_B8w
+  - name: Games
+    url: games/
