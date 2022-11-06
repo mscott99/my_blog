@@ -23,10 +23,10 @@ Let us now specialise to the sparsity setting. T is then the r-sparse space, ${|
 
 There are two important such capsule spaces: the almost-euclidean space.
 
-If we are interested in recovery from l1 minimisation, we introduce the almost-sparse space S1, which we define with the support $S$ of x as ${||x_S||\_1 \geq ||x\_{S^c}||_1}. This space is the set of all error vectors resulting form an l1 minimisation. Indeed, if $w$ is the result of an l1 minimisation program, then $||w||_1 \leq ||x||_1$, and the resulting error vector $h$ will be in the almost-sparse space (all the mass of x will be in S, and w has not enough to give to make the mass of $S^c$ bigger).
+If we are interested in recovery from l1 minimisation, we introduce the almost-sparse space S1, which we define with the support $S$ of x as ${||x_S||\_1 \geq ||x\_{S^c}||_1}$. This space is the set of all error vectors resulting form an l1 minimisation. Indeed, if $w$ is the result of an l1 minimisation program, then $||w||_1 \leq ||x||_1$, and the resulting error vector $h$ will be in the almost-sparse space (all the mass of x will be in S, and w has not enough to give to make the mass of $S^c$ bigger).
 
 That exact recovery is possible stems from the prior-error space being incompatible with the measurment-error space. Similarly, the fact that this $x$ can be recovered with an l1 program stems from S1 being incompatible with the measurement-error space.
 
-\### Restricted Isometry Property
+## Restricted Isometry Property
 
 In the sense of sets, the results about this say that if the restricted Isometry Property holds for a matrix A, then the kernel of said matrix lies outside of S1. The proof of Vershinin takes an h assumed to be in S1 and also in the measurement-error space and finds a contradiction. This is done because we take h to be almost-sparse, and so through inequalities the isometry properties of A on sparse vectors can be applied to h almost-sparse also. Then Ah = 0 means that h = 0 by isometry property.

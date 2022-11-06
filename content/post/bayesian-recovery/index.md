@@ -2,7 +2,7 @@
 title: Bayesian Recovery
 subtitle: Guarantees of recovery of the prior from the posterior.
 date: 2022-11-02T05:13:30.413Z
-draft: false
+draft: true
 featured: false
 image:
   filename: featured
