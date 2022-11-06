@@ -37,4 +37,4 @@ superuser: true
 status:
   icon: ☕️
 ---
-Matthew Scott is a masters student in applied mathematics at the University of British Columbia under the supervision of Prof. Yaniv Plan and Prof. Ozgur Yilmaz.
+Currently a masters student in applied mathematics at the University of British Columbia under the supervision of Prof. Yaniv Plan and Prof. Ozgur Yilmaz.
