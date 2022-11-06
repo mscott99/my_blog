@@ -10,8 +10,8 @@ social:
 #- icon: cv
   #icon_pack: ai
   #link: https://github.com/mscott99 #seems like the issue is the presence of the icon
-- icon: github
-  icon_pack: fab
+- icon: cv
+  icon_pack: ai
   link: files/cv.pdf
 #organizations: [University of British-Columbia]
 
