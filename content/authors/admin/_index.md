@@ -9,7 +9,8 @@ social:
   link: https://github.com/mscott99
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: https://github.com/mscott99
+  #link: files/cv.pdf
 #organizations: [University of British-Columbia]
 
 interests:
