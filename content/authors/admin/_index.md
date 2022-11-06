@@ -7,8 +7,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/mscott99
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 #organizations: [University of British-Columbia]
-
 
 interests:
 - Generative Compressed Sensing
