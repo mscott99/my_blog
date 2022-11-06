@@ -1,7 +1,7 @@
 ---
 title: Matthew Scott
-role: Master's Student
-bio: My research focuses on Generative Compressed Sensing under the supervision of Prof. Yaniv Plan and Prof. Ozgur Yilmaz.
+role: Grad Student in Mathematics
+bio: My research focuses on Generative Compressed Sensing.
 social: 
 # Uncomment below for Github link
 - icon: github
@@ -27,7 +27,7 @@ education:
 #    year: 2012
   - course: MSc in Mathematics
     institution: University of British-Columbia
-    year: in progress
+    year: current
   - course: BSc Joint Honours Math and Physics
     institution: Mcgill Universtiy
     year: 2021 
@@ -37,4 +37,4 @@ superuser: true
 status:
   icon: ☕️
 ---
-Matthew Scott is a masters student in applied mathematics at the University of British Columbia.
+Matthew Scott is a masters student in applied mathematics at the University of British Columbia under the supervision of Prof. Yaniv Plan and Prof. Ozgur Yilmaz.
