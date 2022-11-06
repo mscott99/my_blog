@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: MScott@ClumsyBrain # Website name
+title: Matthew Scott # Website name
 baseurl: "https://m.clumsybrain.com/" # Website URL
 copyright: "" # Footer text, e.g. '© {year} Me'
 
