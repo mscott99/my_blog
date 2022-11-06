@@ -1,6 +1,6 @@
 ---
 title: Matthew Scott
-role: "Master's Student"
+role: Master's Student
 bio: My research interests include Compressed Sensing, the Theory of Deep Learning and High
   Dimensional Probability.
 social: []
