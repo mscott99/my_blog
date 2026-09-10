@@ -1,7 +1,7 @@
 ---
 title: Day in the prairies
 date: 2022-06-06T18:06:15.199Z
-draft: true
+draft: false
 featured: false
 image:
   filename: null
@@ -12,7 +12,7 @@ We woke up in the parking of a Macdonald. The night was good, even with the brig
 
 Then we went for a lunch at cypress hills, recommended by PEPE!
 
-![screen reader cms](content/post/day-in-the-prairies/2ab39ca4-a834-4385-973d-f830abf167ef.jpeg “caption”)
+![A day in the prairies](2ab39ca4-a834-4385-973d-f830abf167ef.jpeg)
 
 So it turns out that the path we took was shut down. We tried to take a small path to have a picnik. Instead we got stuck in the mud. Then I pushed the car, and got full of mud. No Signal on phones, even calling with cellular was not working. I called a towing company, they laughed because of how far we were from them, then the phone cut off.
 
